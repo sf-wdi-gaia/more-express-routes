@@ -45,7 +45,7 @@
 
 Let's start with a simple **Express** application.
 
-* Inside your homework repo, make a directory and `index.js`  
+* Inside your fork of this repo, make a directory and `index.js`  
 
     ``` bash
     mkdir quick_example
