@@ -279,6 +279,6 @@ This will be essential knowledge for building and interacting with applications 
 
 
 ## Exercises
-Now let's jump into a routing challenge. Follow [this link][exercises] and complete them in your fork of this repo, then make a push all your changes up to your remote repo.
+Now let's jump into a routing challenge. Follow [this link][exercises] and complete them in your fork of this repo, then push all your changes up to your remote repo.
 
 [exercises]:  exercises.md    "Express Routes"
