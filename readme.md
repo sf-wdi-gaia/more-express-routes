@@ -45,7 +45,7 @@
 
 Let's start with a simple **Express** application.
 
-* Inside your homework repo, make a directory and `index.js`  
+* Inside your fork of this repo, make a directory and `index.js`  
 
     ``` bash
     mkdir quick_example
@@ -279,7 +279,7 @@ This will be essential knowledge for building and interacting with applications 
 
 
 ## Exercises
-Now let's jump into a routing challenge. Follow [this link][exercises] and complete them in your homework repo, then make a pull request.
+Now let's jump into a routing challenge. Follow [this link][exercises] and complete them in your fork of this repo, then push all your changes up to your remote repo.
 
 [exercises]:  exercises.md    "Express Routes"
 
